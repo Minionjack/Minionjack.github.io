@@ -100,6 +100,11 @@ section:nth-child(odd)
     color:#fff;
 
 }
+img{
+    max-width: 100%;
+    max-height: 100%;
+    margin: 20px;
+}
 nav
 {
     display: flex;
@@ -125,6 +130,11 @@ nav
 .about-content{
     display: grid;
     gap: 1.5rem;
+}
+.images{
+    display: flex;
+    max-width: 500px;
+    
 }
 .btn{
     font-size: 0.97rem;
