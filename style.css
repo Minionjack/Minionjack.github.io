@@ -207,7 +207,6 @@ nav
 }
 .footer-container{
     display: flex;
-    position: relative;
     bottom: 190px;
     padding: 20px;
 }
