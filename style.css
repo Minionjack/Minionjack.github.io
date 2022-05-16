@@ -102,6 +102,7 @@ section:nth-child(odd)
 }
 img
 {
+    margin: 20px;
     display:inline-block;
 }
 
