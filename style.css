@@ -100,6 +100,10 @@ section:nth-child(odd)
     color:#fff;
 
 }
+img
+{
+    display:inline-block;
+}
 
 nav
 {
