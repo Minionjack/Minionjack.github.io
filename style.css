@@ -103,7 +103,7 @@ section:nth-child(odd)
 }
 img
 {
-    display: flex;
+    display: inline-block;
     align-items: center;
 }
 nav
