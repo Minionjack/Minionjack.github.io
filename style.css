@@ -71,7 +71,6 @@ section img
 {
     max-width: 350px;
     margin-left: 40px;
-	display: flex;
 }
 section h2
 {
@@ -101,11 +100,7 @@ section:nth-child(odd)
     color:#fff;
 
 }
-img
-{
-    display: inline-block;
-    align-items: center;
-}
+
 nav
 {
     display: flex;
@@ -131,6 +126,11 @@ nav
 .about-content{
     display: grid;
     gap: 1.5rem;
+}
+.images{
+    display: flex;
+    max-width: 500px;
+    
 }
 .btn{
     font-size: 0.97rem;
